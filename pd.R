@@ -1,0 +1,6 @@
+Name=c("Senthil","Senthil","Sam","Sam")
+Month=c("Jan","Feb","Jan","Feb")
+BS=c(141.2,139.3,135.2,160.1)
+BP=c(90,78,80,81)
+pd=data.frame(Name,Month,BS,BP)
+print(pd)
